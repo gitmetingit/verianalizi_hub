@@ -1,0 +1,7 @@
+﻿**/.idea/
+.idea/
+**/__pycache__/
+.conda/
+*.exe
+.conda_envs_dir_test
+git

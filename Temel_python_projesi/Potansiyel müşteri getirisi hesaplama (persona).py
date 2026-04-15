@@ -5,7 +5,7 @@ pd.set_option('display.width', 500)
 pd.set_option('float_format',lambda x: '%.2f' % x )
 
 ##########GÖREV1##########
-df=pd.read_csv(r"C:\Users\metin\PycharmProjects\PythonProject\Temel_python_projesi\datasets\persona.csv")
+df=pd.read_csv(r"C:\Users\metin\PycharmProjects\VeriAnalizi\Temel_python_projesi\datasets\persona.csv")
 df.head()
 df.info
 df.columns
